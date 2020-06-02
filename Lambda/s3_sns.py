@@ -12,5 +12,5 @@ def lambda_handler(event, context):
     sns.publish(
         TopicArn='arn:aws:sns:us-east-1:298671723150:Default_CloudWatch_Alarms_Topic',
         Subject='Object Upload',
-        Message='Object Uploaded in s3 successfully in the Bucket lambdasnsbucket'
+        Message='Object Uploaded in s3 Bucket successfully'
     )
