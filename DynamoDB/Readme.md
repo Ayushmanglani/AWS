@@ -1,4 +1,4 @@
-#Amazon DynamoDB
+# Amazon DynamoDB
 
 [Article on LinkedIn](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_amazon-dynamodb-activity-6701827003118563328-xlvT)
 
